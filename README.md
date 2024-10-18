@@ -1,6 +1,3 @@
-# do-python-automation-scripts
-Automation scripts to run queries for data operations
-
 
 ## QuickSight API Automation Scripts 
 
